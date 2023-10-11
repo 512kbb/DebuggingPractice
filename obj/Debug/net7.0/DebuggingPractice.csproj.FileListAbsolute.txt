@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\refint\DebuggingPractice.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DebuggingPractice\obj\Debug\net7.0\ref\DebuggingPractice.dll
